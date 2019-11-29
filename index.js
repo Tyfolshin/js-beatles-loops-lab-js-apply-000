@@ -20,6 +20,6 @@ function johnLennonFacts(array1){
 function iLoveTheBeatles(num){
   var love =[];
   do{
-    
+    lo
   }
 }
