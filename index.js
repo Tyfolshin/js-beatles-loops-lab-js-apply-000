@@ -12,7 +12,7 @@ function johnLennonFacts(array1){
   var f = 0;
   while(f <array1.length){
     facts.push(array1[f] +"!!!");
-    f++
+    f++;
   }
   return facts;
 }
@@ -20,6 +20,6 @@ function johnLennonFacts(array1){
 function iLoveTheBeatles(num){
   var love =[];
   do{
-    lo
+    love.push()
   }
 }
