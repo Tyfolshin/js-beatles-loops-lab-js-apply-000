@@ -1,8 +1,8 @@
 // add solution here
 var music = [];
 function theBeatlesPlay(array1,array2){
-  for(l=0;l < array1.length; l++){
-    music[l]= array1[l] + "plays" + array2[l];
-    return music[l];
+  for(i=0;i < array1.length; i++){
+    music[i]= array1[i] + "plays" + array2[i];
+    return music[i];
   }
 }
