@@ -1,5 +1,5 @@
 // add solution here
-var music =
+var music = []
 Function theBeatlesPlay([],[]){
 
 }
