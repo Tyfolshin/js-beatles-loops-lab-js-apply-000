@@ -2,9 +2,9 @@
 var music = []
 var musiclen = music.length;
 var instruments = []
-var ins
-function theBeatlesPlay([music],[insruments]){
+var instrul = instruments.length;
+function theBeatlesPlay([music],[instruments]){
   for(l=0;l < musiclen; l++){
     return music[l]
   }
-}t
+}
