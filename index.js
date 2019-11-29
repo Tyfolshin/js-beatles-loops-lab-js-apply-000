@@ -1,6 +1,8 @@
 // add solution here
 var music = []
 var musiclen = music.length;
-Function theBeatlesPlay([],[]){
-  for(l=0;l < musiclen; l++)
+function theBeatlesPlay([],[]){
+  for(l=0;l < musiclen; l++){
+    
+  }
 }
